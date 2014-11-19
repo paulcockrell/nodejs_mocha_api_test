@@ -1,0 +1,17 @@
+{
+  "name": "mocha-http-api-tests",
+  "version": "0.0.0",
+  "description": "Example mocha testing of nodejs http api",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1",
+    "restify": "^2.8.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Don Pablo",
+  "license": "MIT"
+}
